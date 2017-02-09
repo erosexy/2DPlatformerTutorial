@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPlatformerTutorial.CSharp.Plugins", "2DPlatformerTutorial.CSharp.Plugins.csproj", "{55170EFC-9DC3-C6D4-30FC-34D4DF9E33A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DPlatformerTutorial.CSharp.Editor", "2DPlatformerTutorial.CSharp.Editor.csproj", "{BF312044-4867-09A9-F5C7-A11D5F99F252}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55170EFC-9DC3-C6D4-30FC-34D4DF9E33A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55170EFC-9DC3-C6D4-30FC-34D4DF9E33A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55170EFC-9DC3-C6D4-30FC-34D4DF9E33A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55170EFC-9DC3-C6D4-30FC-34D4DF9E33A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF312044-4867-09A9-F5C7-A11D5F99F252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF312044-4867-09A9-F5C7-A11D5F99F252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF312044-4867-09A9-F5C7-A11D5F99F252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF312044-4867-09A9-F5C7-A11D5F99F252}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
